@@ -1,7 +1,7 @@
 {
   "name": "docx2htmlnexon",
   "description": "a javascript docx converter to html based on docx4js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Son tran",
     "email": "sontranbeou@gmail.com"
